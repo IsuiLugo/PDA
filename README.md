@@ -12,5 +12,3 @@ Y detecta si una cadena no es un palindromo
 Ejemplo:  
 ![Tercera imagen](https://github.com/IsuiLugo/PDA/blob/master/PushdownAutomata/src/Recursos/Scrin2%20(3).png)
   
-Si vas a usar mi código por favor avisame, no tengo problema en compartir, pero intentalo tú.  
-Para obtener la documentacción completa porfavor contactame.  
